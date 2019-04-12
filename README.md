@@ -7,3 +7,4 @@
 2.  The first 5 pixels of your image represent the key to the image, they should all be different colors.  They correspond to the following tile types in 2dot: red (starting) tiles, blue tiles, red checkerboard tiles, green tiles, and endzone tiles.  Any other color will be interpreted as a wall.
 3.  The upper left and lower right corners have the color key of the starting zone (the first pixel color of the image).  Leave the second pixel as a different color, the program will change it for you.
 
+I have left an example image here that represents the first level in 2Dot
